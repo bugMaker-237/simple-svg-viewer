@@ -6,5 +6,3 @@ A simple node js server, with NO dependencies, serving an html file containing t
 node path/to/viewer/index.js
 ```
 Then open http://localhost:9870 in browser
-
-Demo at :
