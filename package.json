@@ -1,0 +1,25 @@
+{
+  "name": "simple-svg-viewer",
+  "version": "1.0.0",
+  "description": "A simple node js server, with NO dependencies, serving an html file containing the list svg files found in the cureent working directory with preview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugMaker-237/simple-svg-viewer.git"
+  },
+  "keywords": [
+    "svg",
+    "viewer",
+    "simple",
+    "node"
+  ],
+  "author": "Etienne Yamsi B.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bugMaker-237/simple-svg-viewer/issues"
+  },
+  "homepage": "https://github.com/bugMaker-237/simple-svg-viewer#readme"
+}
